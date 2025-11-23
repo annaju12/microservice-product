@@ -12,14 +12,14 @@ O projeto segue padrões modernos e permite execução simples.
 A aplicação utiliza **ESLint** e **Prettier**, garantindo: padronização de código, formatação automatizada, regras de boas práticas e eliminação de erros comuns.
 ### **8. Pergunta Avançada:** O projeto demonstra princípios de arquitetura limpa, isolamento de camadas, padronização e uso de padrões profissionais (factories, repositories, presenters).
 **Frontend – Análise Inicial:**
-### **1. Linguagem e Framework**: Frontend feito** com** React + Vite**,** usando JSX e componentes reutilizáveis.
+### **1. Linguagem e Framework**: Frontend feito com React + Vite, usando JSX e componentes reutilizáveis.
 **2. Configuração e Execução**: Setup moderno, rápido e padronizado.\
 Scripts simples facilitam o uso e contribuem para boa qualidade.
---------------------------------------------------------------------
+
 **3. Arquitetura e Estrutura:** Components: elementos reutilizáveis, Modules: páginas organizadas e Lib: funções utilitárias.
 **4. Design UI/UX:** Utilização de componentes simples e limpos.\
 Organização do botão em components/ui/button.jsx preocupa-se com reuso e padrão visual.
----------------------------------------------------------------------------------------
+
 ### **5. Integração com Backend:** O padrão de módulos indica fácil integração com APIs REST, A separação por módulos evita acoplamento.
 ### **6. Funcionalidades:** Cada módulo representa uma funcionalidade específica (produto e usuário), Boa prática de modularização.
 ### **7. Testes:** A organização permite implementar testes de componente e testes de integração facilmente.
@@ -59,6 +59,7 @@ Organização do botão em components/ui/button.jsx preocupa-se com reuso e padr
 \- Estrutura clara e nomeação intuitiva.\
 \- Repositório organizado.\
 \- Facilita onboarding de novos desenvolvedores.
+
 
 
 
