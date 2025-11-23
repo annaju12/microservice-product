@@ -1,6 +1,7 @@
 ﻿**Backend – Análise Inicial:**
 
 **1. Linguagem de Programação:** TypeScript, melhora a qualidade porque adiciona tipagem estática, reduz erros comuns e facilita manutenção.
+
 **2. Configuração e Execução:** Organizada com scripts, dependências bem definidas e separação clara por diretórios.\
 O projeto segue padrões modernos e permite execução simples.
 
@@ -59,6 +60,7 @@ Organização do botão em components/ui/button.jsx preocupa-se com reuso e padr
 \- Estrutura clara e nomeação intuitiva.\
 \- Repositório organizado.\
 \- Facilita onboarding de novos desenvolvedores.
+
 
 
 
