@@ -3,7 +3,7 @@
 **1. Linguagem de Programação:** TypeScript, melhora a qualidade porque adiciona tipagem estática, reduz erros comuns e facilita manutenção.
 **2. Configuração e Execução:** Organizada com scripts, dependências bem definidas e separação clara por diretórios.\
 O projeto segue padrões modernos e permite execução simples.
---------------------------------------------------------------------------------------------------------------------
+
 ### **3. Arquitetura de Software:** A arquitetura utiliza princípios de **Clean Architecture / DDD**, com camadas **desacopladas**, o que melhora manutenção e testabilidade.
 **4. Banco de Dados:**Utiliza banco relacional com acesso via adapter (PgPromise), O banco pode ser trocado facilmente sem mexer no domínio da aplicação.
 ### **5. Funcionalidades:** As principais funcionalidades são:listar produtos, buscar produto por id e estrutura para extensões futuras ( digital products ).
@@ -59,6 +59,7 @@ Organização do botão em components/ui/button.jsx preocupa-se com reuso e padr
 \- Estrutura clara e nomeação intuitiva.\
 \- Repositório organizado.\
 \- Facilita onboarding de novos desenvolvedores.
+
 
 
 
